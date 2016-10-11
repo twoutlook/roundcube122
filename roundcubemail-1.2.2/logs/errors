@@ -1,0 +1,2 @@
+[11-Oct-2016 00:22:27 +0000]: <2tph7ujt> DB Error: SQLSTATE[HY000] [1045] Access denied for user 'roundcube'@'localhost' (using password: NO) in /home/ubuntu/workspace/roundcubemail-1.2.2/program/lib/Roundcube/rcube_db.php on line 173 (GET /webmail/)
+[11-Oct-2016 00:22:27 +0000]: <2tph7ujt> PHP Error: config.inc.php was not found. (GET /webmail/)
